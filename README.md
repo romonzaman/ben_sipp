@@ -6,6 +6,7 @@ apt-get install gcc ncurses ncurses-dev make autoconf build-essential g++
 ```
 ## install
 ```
+git clone https://github.com/romonzaman/ben_sipp.git
 cd sipp_3.5.0
 bash build.sh
 
